@@ -1,6 +1,6 @@
 import jwt from "jsonwebtoken";
 import { errorHandler } from "../Utils/error.js";
-import User from "../Models/UserModels.js";
+import User from "../Models/userModels.js";
 
 
 
