@@ -1,4 +1,4 @@
-import User from "../Models/UserModels.js";
+import User from "../Models/userModels.js";
 import { createTransport } from "nodemailer";
 import emailValidator from "email-validator";
 import userfeedback from "../Models/FeedbackModels.js";
