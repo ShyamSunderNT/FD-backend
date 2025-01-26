@@ -1,9 +1,9 @@
 import multer from "multer";
 import bcryptjs from "bcryptjs";
 import emailValidator from "email-validator";
-import User from "../Models/UserModels.js";
 import sendMail from "../Middleware/sendMail.js";
 import jwt from "jsonwebtoken"
+import User from "../Models/UserModels.js";
 
 
 
