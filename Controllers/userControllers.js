@@ -3,7 +3,7 @@ import bcryptjs from "bcryptjs";
 import emailValidator from "email-validator";
 import sendMail from "../Middleware/sendMail.js";
 import jwt from "jsonwebtoken"
-import User from "../Models/UserModels.js";
+import User from "../Models/userModels.js";
 
 
 

@@ -1,5 +1,5 @@
 import axios from "axios";
-import User from "../Models/UserModels.js";
+import User from "../Models/userModels.js";
 import bcryptjs from "bcryptjs";
 
 
